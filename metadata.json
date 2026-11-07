@@ -1,0 +1,6 @@
+{
+  "name": "MID GAME HACKER",
+  "description": "AI-powered offline game save editor and analyzer with natural language commands, safe backup & export, and APK inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
